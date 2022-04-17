@@ -251,3 +251,51 @@ http://iptv.tvfix.org/hls/animal.m3u8
 http://iptv.tvfix.org/hls/lovenature4k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特区",Love Nature
 http://iptv.tvfix.org/hls/lovenature4k2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",东风卫视
+http://59.125.101.187:8719/http/192.168.77.24:8081/hls/68/810/ch31.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",纬来综合
+http://59.125.101.187:8770/http/192.168.77.24:8081/hls/68/810/ch32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",纬来日本
+http://59.125.101.187:8771/http/192.168.77.24:8081/hls/69/811/ch34.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",纬来戏剧
+http://59.125.101.187:8756/http/192.168.77.24:8081/hls/69/811/ch33.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",纬来电影
+http://59.125.101.187:8710/http/192.168.77.24:8081/hls/69/811/ch35.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",纬来育乐
+http://59.125.101.187:8762/http/192.168.77.24:8081/hls/68/810/ch30.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",纬来体育
+http://59.125.101.187:8763/http/192.168.77.24:8081/hls/67/809/ch28.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",JET综合
+http://59.125.101.187:8719/http/192.168.77.24:8081/hls/74/816/ch54.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",探索发现
+http://59.125.101.187:8710/http/192.168.77.24:8081/hls/71/813/ch44.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",国家地理
+http://59.125.101.187:8709/http/192.168.77.24:8081/hls/61/803/ch01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",动物星球
+http://59.125.101.187:8719/http/192.168.77.24:8088/hls/70/812/ch37.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",TLC旅游生活
+http://59.125.101.187:8774/http/192.168.77.24:8081/hls/70/812/ch38.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",HBO
+http://59.125.101.187:8757/http/192.168.77.24:8081/hls/71/813/ch41.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",霹雳台湾
+http://59.125.101.187:8768/http/192.168.77.24:8081/hls/75/817/ch59.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",CINEMAX
+http://59.125.101.187:8761/http/192.168.77.24:8081/hls/71/813/ch42.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",AXN
+http://59.125.101.187:8759/http/192.168.77.24:8081/hls/71/813/ch43.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",Animax
+http://59.125.101.187:8744/http/192.168.77.24:8081/hls/70/812/ch39.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",好莱坞电影
+http://59.125.101.187:8754/http/192.168.77.24:8081/hls/74/816/ch55.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",StarWorld
+http://59.125.101.187:8761/http/192.168.77.24:8081/hls/61/803/ch02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",CNBC
+http://59.125.101.187:8708/http/192.168.77.24:8078/hls/24/80/cnbc90.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",NHK新闻
+http://59.125.101.187:8706/http/192.168.77.24:8081/hls/62/804/ch06.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",卫视中文
+http://59.125.101.187:8720/http/192.168.77.24:8081/hls/62/804/ch05.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",卫视电影
+http://59.125.101.187:8753/http/192.168.77.24:8081/hls/62/804/ch07.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",卫视电影GOLD
+http://59.125.101.187:8745/http/192.168.77.24:8081/hls/62/804/ch08.m3u8
