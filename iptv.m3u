@@ -307,3 +307,7 @@ http://59.125.98.83:8535/http/192.168.1.9:8066/hls/210/10011/cstv11.m3u8?token=7
 http://59.125.98.83:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="中国",CETV1
 http://39.135.55.105:6610/PLTV/88888888/224/3221225869/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="中国",哈哈炫动
+http://39.135.55.105:6610/PLTV/88888888/224/3221225872/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="中国",优漫卡通
+http://39.135.55.105:6610/PLTV/88888888/224/3221225874/index.m3u8?servicetype=1
