@@ -142,7 +142,7 @@ http://iptv.tvfix.org/hls/brtv8hd.m3u8
 #EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="中国",北京新闻
 http://iptv.tvfix.org/hls/brtv9hd.m3u8
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="中国",北京卡酷少儿
-http://iptv.tvfix.org/hls/brtv10hd.m3u8
+http://39.135.55.105:6610/PLTV/88888888/224/3221225871/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="中国",北京冬奥纪实
 http://iptv.tvfix.org/hls/brtv11hd.m3u8
 #EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="中国",上海新闻综合
@@ -305,3 +305,5 @@ http://59.125.98.83:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8?token=7
 http://59.125.98.83:8535/http/192.168.1.9:8066/hls/210/10011/cstv11.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",龙华偶像
 http://59.125.98.83:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="中国",CETV1
+http://39.135.55.105:6610/PLTV/88888888/224/3221225869/index.m3u8?servicetype=1
