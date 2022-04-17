@@ -112,9 +112,9 @@ http://shbu.live.bestvcdn.com.cn:8080/live/program/live/shsshd/4000000/mnf.m3u8
 #EXTINF:-1  tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://www.hualigs.cn/image/62033aa4c2e0a.jpg" group-title="中国",都市剧场
 http://111.20.33.93/TVOD/88888893/224/3221226581/index.m3u8
 #EXTINF:-1 group-title="中国" tvg-logo="https://www.hualigs.cn/image/6153d999b6b49.jpg",黑莓电影
-http://39.135.138.59:18890/PLTV/88888910/224/3221225769/index.m3u8
+http://39.135.55.105:6610/PLTV/88888888/224/3221225891/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="中国" tvg-logo="https://www.hualigs.cn/image/6153d999ee4fd.jpg",黑莓动画
-http://183.207.249.7/PLTV/3/224/3221225555/index.m3u8
+http://39.135.55.105:6610/PLTV/88888888/224/3221225878/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="北京IPTV淘电影" tvg-logo="https://www.hualigs.cn/image/6153d999eb3a6.jpg" group-title="中国",北京IPTV淘电影
 http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO7Z60nQmH%2FQdgWVzAI0y58w%3D%3D%3A20211105223205%2C10000100000000050000000003887498%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 #EXTINF:-1 tvg-name="北京IPTV淘剧场" tvg-logo="https://www.hualigs.cn/image/6153d99a454ef.jpg" group-title="中国",北京IPTV淘剧场
