@@ -101,8 +101,6 @@ http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="中国",纪实人文
 http://39.135.55.105:6610/PLTV/88888888/224/3221225946/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="中国",纪实人文(备)
-http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
 #EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="中国",全纪实
 http://223.111.195.58/keonline.shanghai.liveplay.qq.com/live/program/live/qjshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="中国",金鹰纪实
@@ -306,8 +304,14 @@ http://59.125.98.83:8535/http/192.168.1.9:8066/hls/210/10011/cstv11.m3u8?token=7
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",龙华偶像
 http://59.125.98.83:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="中国",CETV1
-http://39.135.55.105:6610/PLTV/88888888/224/3221225869/index.m3u8?servicetype=1
+http://39.135.55.105:6610/PLTV/88888888/224/3221227067/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="中国",哈哈炫动
 http://39.135.55.105:6610/PLTV/88888888/224/3221225872/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="中国",优漫卡通
 http://39.135.55.105:6610/PLTV/88888888/224/3221225874/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="中国",金鹰卡通
+http://39.135.55.105:6610/PLTV/88888888/224/3221227018/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="中国",CETV4
+http://39.135.55.105:6610/PLTV/88888888/224/3221227050/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="中国",动漫秀场
+http://39.135.55.105:6610/PLTV/88888888/224/3221227071/index.m3u8?servicetype=1
