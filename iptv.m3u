@@ -321,6 +321,16 @@ http://39.135.55.105:6610/PLTV/88888888/224/3221227079/index.m3u8?servicetype=1
 http://39.135.55.105:6610/PLTV/88888888/224/3221227149/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建",公共频道
 http://39.135.55.105:6610/PLTV/88888888/224/3221227153/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建",福建少儿
+http://39.135.55.105:6610/PLTV/88888888/224/3221227194/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建",福建文体
+http://39.135.55.105:6610/PLTV/88888888/224/3221227188/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建",福建新闻
+http://39.135.55.105:6610/PLTV/88888888/224/3221227180/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建",福建经济
+http://39.135.55.105:6610/PLTV/88888888/224/3221227184/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建",福建旅游
+http://39.135.55.105:6610/PLTV/88888888/224/3221227190/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建",南平-1
 http://39.135.55.105:6610/PLTV/88888888/224/3221227066/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建",南平-2
@@ -335,7 +345,19 @@ http://39.135.55.105:6610/PLTV/88888888/224/3221226781/index.m3u8?servicetype=1
 http://39.135.55.105:6610/PLTV/88888888/224/3221226814/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="中国",4K-UHD
 http://39.135.55.105:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1
-#EXTINF:-1 ,莆田1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建",漳州1
+http://39.135.55.105:6610/PLTV/88888888/224/3221227169/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建",泉州1
+http://39.135.55.105:6610/PLTV/88888888/224/3221227165/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建",三明1
+http://39.135.55.105:6610/PLTV/88888888/224/3221227173/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建",莆田1
 http://39.135.55.105:6610/PLTV/88888888/224/3221227161/index.m3u8?servicetype=1
-#EXTINF:-1 ,CCTV-16 4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建",福州1
+http://39.135.55.105:6610/PLTV/88888888/224/3221227157/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="中国",CCTV-16 4K
 http://39.135.55.105:6610/PLTV/88888888/224/3221227162/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建",海峡卫视
+http://39.135.55.105:6610/PLTV/88888888/224/3221227198/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建",龙岩综合
+http://39.135.55.105:6610/PLTV/88888888/224/3221227200/index.m3u8?servicetype=1
