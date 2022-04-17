@@ -152,7 +152,7 @@ http://iptv.tvfix.org/hls/shdspdhd.m3u8
 #EXTINF:-1 tvg-id="1991" tvg-name="上视外语频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="中国",上视外语频道
 http://iptv.tvfix.org/hls/shwypdhd.m3u8
 #EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="体育",极速汽车
-http://iptv.tvfix.org/hls/jsqchd.m3u8
+http://39.135.55.105:6610/PLTV/88888888/224/3221227186/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="体育",劲爆体育
 http://iptv.tvfix.org/hls/jbtyhd.m3u8
 #EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="体育",新视觉
@@ -160,7 +160,7 @@ http://iptv.tvfix.org/hls/xsjhd.m3u8
 #EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="体育",魅力足球
 http://iptv.tvfix.org/hls/mlzqhd.m3u8
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="体育",游戏风云
-http://iptv.tvfix.org/hls/yxfyhd.m3u8
+http://39.135.55.105:6610/PLTV/88888888/224/3221227075/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="特区",翡翠台(第1声道繁体)
 http://iptv.tvfix.org/hls/jade.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="特区",翡翠台(第2声道简体)
